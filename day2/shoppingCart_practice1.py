@@ -40,7 +40,7 @@ if salary.isdigit():
             else:
                 print("无此商品！")
         elif user_choose == "q" or "Q":
-            print("..........shoppint list............")
+            print("..........shopping list...............")
             for p in shoppingList:
                 print(p)
             print("您的余额为\033[31;1m%s\033[0m" % salary)
