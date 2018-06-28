@@ -12,9 +12,10 @@
 
 goodsLists = [
     ["Starbucks Coffee", 35],
-    ["Bike", 300],
-    ["iPhone", 6000],
-    ["MacBook", 10000]
+    ["Bike", 320],
+    ["iPad", 3050],
+    ["iPhone", 6800],
+    ["MacBook", 12800]
 ]                                   # 产品列表
 shoppingLists = []                  # 放到购物车里的商品
 salary = input("Please enter your salary:")     # 输入工资
