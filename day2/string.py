@@ -22,6 +22,7 @@ print("a".islower())  # 是否小写
 print(" ".isspace())  # 是否空格
 print("This Is Me".istitle())  # 是否标题（每个首字母大写）
 print("AAABCD".isupper())  # 是否大写
+
 print('+'.join(['1', '2', '3']))  # 用‘+’来连接串起列表里的每一个元素
 print(name.ljust(50, '*'))  # 保证有50个字符串，从左边开始填充，不足的用*补齐
 print(name.rjust(50, '-'))  # 保证有50个字符串，从右边开始填充，不足的用-补齐
@@ -38,5 +39,13 @@ print('       Alex\n'.strip())  # 移除字符串头尾指定的字符（默认�
 # 注：两个字符串的长度必须相同，为一一对应的关系。
 p = str.maketrans("abcdefg", '123456#')
 print('I am a dog'.translate(p))
+
+print('alex li'.replace('l', 'L', 1))  # 把字符串中的 old（旧字符串） 替换成 new(新字符串)，如果指定第三个参数max，则替换不超过 max 次
+print('alex lil'.rfind('l'))  # 返回字符串最后一次出现的位置(从右向左查询)，如果没有匹配项则返回-1
+print('1+2+4+5+8'.split('+'))  # 通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则仅分隔 num 个子字符串
+print('1+2+3\n+4+5'.splitlines())  # 按照行('\r', '\r\n', \n')分隔，返回一个包含各行作为元素的列表
+print('www.baidu.'.startswith('www'))  # 用于检查字符串是否是以指定子字符串开头
+print('Alex Li'.swapcase())  # 用于对字符串的大小写字母进行转换
+print('alex li'.title())  # 返回"标题化"的字符串,就是说所有单词都是以大写开始，其余字母均为小写
 
 
