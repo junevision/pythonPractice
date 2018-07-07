@@ -1,31 +1,41 @@
 # coding: utf-8
 # Author: Mingjun Lei
 
+# dict是无序的
+# key必须是唯一的,so 天生去重
+# key尽量不要写中文，可能导致编码取不出来
+
+# tv_catalog = {
+#     "欧美": {
+#         "www.google.com": ["很多免费的,世界最大的", "质量一般"],
+#         "letmedothistoyou.com": ["多是自拍,高质量图片很多", "资源不多,更新慢"],
+#         "x-art.com": ["质量很高,真的很高", "全部收费,屌比请绕过"]
+#     },
+#     "日韩": {
+#         "tokyo-hot": ["质量怎样不清楚,个人已经不喜欢日韩范了", "听说是收费的"]
+#     },
+#     "大陆": {
+#         "1024": ["全部免费,真好,好人一生平安", "服务器在国外,慢"]
+#     }
+# }
+# tv_catalog["大陆"]["1024"][1] = "可以在国内做镜像"  # 把字典里的值替换
+# tv_catalog.setdefault("台湾", {"www.taiwan.com": ["钓鱼岛是中国的"]})  # 和get() 方法类似, 如果键不存在于字典中，将会添加键并将值设为默认值。
+# print(tv_catalog)
+
+################################################################################
 # key-value 键-值
 info = {
     'stu1101': 'Messi',
     'stu1102': 'Christiano Ronaldo',
     'stu1103': 'Neymar',
 }
-
-# dict是无序的
-# key必须是唯一的,so 天生去重
-
-tv_catalog = {
-    "欧美": {
-        "www.google.com": ["很多免费的,世界最大的", "质量一般"],
-        "letmedothistoyou.com": ["多是自拍,高质量图片很多", "资源不多,更新慢"],
-        "x-art.com": ["质量很高,真的很高", "全部收费,屌比请绕过"]
-    },
-    "日韩": {
-        "tokyo-hot": ["质量怎样不清楚,个人已经不喜欢日韩范了", "听说是收费的"]
-    },
-    "大陆": {
-        "1024": ["全部免费,真好,好人一生平安", "服务器在国外,慢"]
-    }
+info1 = {
+    'stu1102': 'Alex',
+    1: 2,
+    3: 4,
 }
-
-print(tv_catalog)
+info.update(info1)  # update() 函数把字典dict2的键/值对更新到dict里。
+print(info)
 
 # print(info.get('stu1104'))  # 获取查找，如无该值会返回none（比较稳妥的写法）
 # print('stu1104' in info)  # 查找值，如果有就返回true，没有就返回false
