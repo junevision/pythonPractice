@@ -25,6 +25,8 @@ tv_catalog = {
     }
 }
 
+print(tv_catalog)
+
 # print(info.get('stu1104'))  # 获取查找，如无该值会返回none（比较稳妥的写法）
 # print('stu1104' in info)  # 查找值，如果有就返回true，没有就返回false
 
