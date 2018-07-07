@@ -36,6 +36,13 @@ info1 = {
 }
 info.update(info1)  # update() 函数把字典dict2的键/值对更新到dict里。
 print(info)
+print(info.items())  # items() 函数以列表返回可遍历的(键, 值) 元组数组。
+
+for i in info:                 # 通过索引方式，循环打印出字典里的键-值，更高效（推荐）
+    print(i, info[i])
+
+for k, v in info.items():      # 用字典转换成列表的方式，耗时费内存（不推荐）
+    print(k, v)
 
 # print(info.get('stu1104'))  # 获取查找，如无该值会返回none（比较稳妥的写法）
 # print('stu1104' in info)  # 查找值，如果有就返回true，没有就返回false
