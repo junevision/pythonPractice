@@ -46,16 +46,28 @@ menu = {
 }
 
 while True:
-    for i in menu:
+    for i in menu:       # 打印一级菜单，例如“北京”
         print(i)
 
-    choice = input("选择进入>>：")
+    choice = input("选择进入1>>：")     # 选择其中一个进入
     if choice in menu:
         while True:
-            for i2 in menu[choice]:
+            for i2 in menu[choice]:         # 打印二级菜单，例如“海淀”
                 print("\t", i2)
-                choice2 = input("选择进入>>：")
+                choice2 = input("选择进入2>>：")     # 选择其中一个进入
                 if choice2 in menu[choice]:
                     while True:
-                        for i3 in menu[choice2]:
-                            print("\t", i3)
+                        for i3 in menu[choice][choice2]:       # 打印三级菜单，如“五道口”
+                            print("\t\t", i3)
+                            choice3 = input("选择进入3>>：")     # 选择其中一个进入
+                            if choice3 in menu[choice][choice2]:
+                                for i4 in menu[choice][choice2][choice3]:       # 打印三级菜单，如“五道口”
+                                    print("\t\t", i4)
+                                choice4 = input("最后一层，按b返回>>：")
+                                if choice4 == 'b':
+                                    pass
+                            if choice3 == 'b':
+                                break
+                if choice2 == 'b':
+                    break
+
