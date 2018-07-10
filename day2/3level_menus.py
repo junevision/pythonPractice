@@ -48,7 +48,7 @@ menu = {
 #  这里需要注意的是，代码行的对齐，否则逻辑容易报错
 
 exit_flag = False
-while not exit_flag:
+while not exit_flag:        # 定义进入循环的条件
     for i in menu:
         print(i)            # 打印一级菜单的所有选项，例如“北京”等
     choice = input("选择进入1>>：")     # 选择其中一个进入
