@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 import urllib.request
 import re
-import xlwt  #用来创建excel文档并写入数据
+import xlwt  # 用来创建excel文档并写入数据
 
 # 获取原码
 def get_content(page):
