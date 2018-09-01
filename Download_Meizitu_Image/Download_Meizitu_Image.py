@@ -7,21 +7,21 @@ import re
 
 Hostreferer = {
     'User-Agent':'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
-    'Referer':'http://www.mzitu.com'
+    'Referer': 'http://www.mzitu.com'
 }
 Picreferer = {
-    'User-Agent':'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
-    'Referer':'http://i.meizitu.net'
+    'User-Agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
+    'Referer': 'http://i.meizitu.net'
 }
 
-def get_page_name(url):#获得图集最大页数和名称
+def get_page_name(url): # 获得图集最大页数和名称
     html = get_html(url)
     soup = BeautifulSoup(html, 'lxml')
     span = soup.findAll('span')
     title = soup.find('h2', class_="main-title")
     return span[10].text, title.text
 
-def get_html(url):#获得页面html代码
+def get_html(url): # 获得页面html代码
     req = requests.get(url, headers=Hostreferer)
     html = req.text
     return html
@@ -61,7 +61,7 @@ def save_one_atlas(old_url):
 def get_atlas_list(url):
     req = requests.get(url, headers=Hostreferer)
     soup = BeautifulSoup(req.text, 'lxml')
-    atlas = soup.find_all(attrs={'class':'lazy'})
+    atlas = soup.find_all(attrs={'class': 'lazy'})
     atlas_list = []
     for atla in atlas:
         atlas_list.append(atla.parent['href'])
