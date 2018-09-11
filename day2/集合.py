@@ -18,12 +18,12 @@ print(list_1.difference(list_2))
 # 对称差集（把list1和list2都没有的，取出来）
 print(list_1.symmetric_difference(list_2))
 
+print("-------------------------------")
 list_3 = set([1, 5, 7])
 # 子集
 print(list_3.issubset(list_1))  # list_3是list_1的子集
 # 父集
 print(list_1.issuperset(list_3))  # list_1是list_3的父集
 
-print("-------------------------------")
 list_4 = set([2, 8])
 print(list_1.isdisjoint(list_4))  # 如果两个集合没有交集，则返回true
