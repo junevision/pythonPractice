@@ -27,12 +27,29 @@
 # f.flush()
 # f.close()
 
-# f = open("yesterday2", 'r+', encoding="utf-8")  # 读写，先读取文件，然后在最末尾处写入内容
-f = open("yesterday2", 'w+', encoding="utf-8")  # 写读，先创建一个文件再写，然后再读
-print(f.readline())
-print(f.readline())
-print(f.readline())
-print(f.tell())
-f.write("-------------well done-------------------")
+# f = open("yesterday2", 'r+', encoding="utf-8")  # 文件句柄，读写，先读取文件，然后在最末尾处写入内容
+# f = open("yesterday2", 'w+', encoding="utf-8")  # 文件句柄，写读，先创建一个文件再写，然后再读（没什么用）
+# f = open("yesterday2", 'a+', encoding="utf-8")  # 文件句柄，追加读写
+# f = open("yesterday2", 'rb', encoding="utf-8")  # 文件句柄，二进制读文件
+f = open("yesterday2", 'wb')  # 文件句柄，二进制写文件
+f.write("Hello binary\n".encode())
+f.close()
+
+# print(f.readline())
+# print(f.readline())
+# print(f.readline())
+# print(f.tell())
+# f.write("-------------well done-------------------")
+
+# f.write("-------------well done-------------------\n")
+# f.write("-------------well done-------------------\n")
+# f.write("-------------well done-------------------\n")
+# f.write("-------------well done-------------------\n")
+# print(f.tell())
+# f.seek(10)
+# print(f.tell())
+# print(f.readline())
+# f.write("should be at the beginning of the second line")
+# f.close()
 
 
