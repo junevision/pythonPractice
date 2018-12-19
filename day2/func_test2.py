@@ -1,9 +1,11 @@
 # coding: utf-8
 # Author: Mingjun Lei
-
+import time
 def logger():
+    time_format = '%Y-%m-%d %X'
+    time_current = time.strftime(time_format)
     with open('a.txt', 'a+') as f:
-        f.write('end action')
+        f.write('%s end action\n' %time_current)
 
 def test1():
     print('test1 starting action...')
