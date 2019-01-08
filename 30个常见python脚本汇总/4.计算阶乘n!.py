@@ -16,3 +16,16 @@ def fac():
         print("%d 的阶乘是 %d" % (num, factorial))
 
 fac()
+
+# # 第二种写法
+# def factorial(n):
+#     result = n
+#     for i in range(1, n):
+#         result *= i
+#     return result
+#
+# # 第三种写法
+# def fact(n):
+#     if n == 1:
+#         return 1
+#     return n * fact(n-1)

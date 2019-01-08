@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f081859-8965-4a56-b025-33de3dd2ef47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/2.计算x的n次方的方法.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/3.计算(a乘a)加(b乘b)加(c乘c).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/30个常见python脚本汇总/冒泡排序.py" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/1.冒泡排序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py" />
     </list>
     <ignored path="s14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +47,11 @@
     <SUITE FILE_PATH="coverage/python_practice$51job_reptile.coverage" NAME="51job_reptile Coverage Results" MODIFIED="1534903652567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51job_reptile" />
     <SUITE FILE_PATH="coverage/s14$guess.coverage" NAME="guess Coverage Results" MODIFIED="1522310502416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1530533381389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_practice$6_list.coverage" NAME="6.把一个list中所有的字符串变成小写 Coverage Results" MODIFIED="1546937548721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
+    <SUITE FILE_PATH="coverage/python_practice$5_.coverage" NAME="5.列出当前目录下的所有文件和目录名 Coverage Results" MODIFIED="1546937397939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1534760924547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat_Moments_Sudoku" />
     <SUITE FILE_PATH="coverage/python_practice$gif_maker.coverage" NAME="gif_maker Coverage Results" MODIFIED="1539771169539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gif_maker" />
+    <SUITE FILE_PATH="coverage/python_practice$7_.coverage" NAME="7.输出某个路径下的所有文件和文件夹的路径 Coverage Results" MODIFIED="1546938421250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$names.coverage" NAME="names Coverage Results" MODIFIED="1527740723287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$func_test6.coverage" NAME="func_test6 Coverage Results" MODIFIED="1546412383061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$func_test3.coverage" NAME="func_test3 Coverage Results" MODIFIED="1545297327246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
@@ -92,41 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="encode2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/encode2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="func_test1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day2/func_test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="func_test2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/func_test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="func_test3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/func_test3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,11 +145,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.计算阶乘n!.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.计算阶乘n!.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.97245765">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.列出当前目录下的所有文件和目录名.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.把一个list中所有的字符串变成小写.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.输出某个路径下的所有文件和文件夹的路径.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.74364406">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -198,9 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../s14/day1/names[List]2.py" />
-        <option value="$PROJECT_DIR$/../s14/day1/names[List]_copy.py" />
-        <option value="$PROJECT_DIR$/../s14/day1/names[List]_copy2.py" />
         <option value="$PROJECT_DIR$/day1/assignment_login.py" />
         <option value="$PROJECT_DIR$/day1/names[List]_copy2.py" />
         <option value="$PROJECT_DIR$/day1/tuple.py" />
@@ -249,6 +249,9 @@
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/2.计算x的n次方的方法.py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/3.计算(a乘a)加(b乘b)加(c乘c).py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py" />
       </list>
     </option>
   </component>
@@ -353,61 +356,7 @@
       <recent name="C:\Users\610148\PycharmProjects\s14\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.计算阶乘n!">
-    <configuration default="false" name="func_test6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/func_test6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\610148\PycharmProjects\pythonPractice\30个常见python脚本汇总\1.冒泡排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="2.计算x的n次方的方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/2.计算x的n次方的方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.7.输出某个路径下的所有文件和文件夹的路径">
     <configuration default="false" name="3.计算(a乘a)加(b乘b)加(c乘c)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -440,6 +389,60 @@
       <module name="python_practice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="5.列出当前目录下的所有文件和目录名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="6.把一个list中所有的字符串变成小写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="7.输出某个路径下的所有文件和文件夹的路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -638,19 +641,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.func_test6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.冒泡排序" />
-      <item index="2" class="java.lang.String" itemvalue="Python.2.计算x的n次方的方法" />
-      <item index="3" class="java.lang.String" itemvalue="Python.3.计算(a乘a)加(b乘b)加(c乘c)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.计算阶乘n!" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3.计算(a乘a)加(b乘b)加(c乘c)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4.计算阶乘n!" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5.列出当前目录下的所有文件和目录名" />
+      <item index="3" class="java.lang.String" itemvalue="Python.6.把一个list中所有的字符串变成小写" />
+      <item index="4" class="java.lang.String" itemvalue="Python.7.输出某个路径下的所有文件和文件夹的路径" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.计算阶乘n!" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3.计算(a乘a)加(b乘b)加(c乘c)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2.计算x的n次方的方法" />
-        <item index="3" class="java.lang.String" itemvalue="Python.冒泡排序" />
-        <item index="4" class="java.lang.String" itemvalue="Python.func_test6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.7.输出某个路径下的所有文件和文件夹的路径" />
+        <item index="1" class="java.lang.String" itemvalue="Python.6.把一个list中所有的字符串变成小写" />
+        <item index="2" class="java.lang.String" itemvalue="Python.5.列出当前目录下的所有文件和目录名" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4.计算阶乘n!" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3.计算(a乘a)加(b乘b)加(c乘c)" />
       </list>
     </recent_temporary>
   </component>
@@ -893,7 +896,13 @@
       <option name="project" value="LOCAL" />
       <updated>1546915787192</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="[20190108] 4个算法 update">
+      <created>1546930415109</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1546930415109</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -942,7 +951,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20180816update" />
     <MESSAGE value="20180817update" />
     <MESSAGE value="20180820update" />
     <MESSAGE value="20180821update" />
@@ -967,7 +975,8 @@
     <MESSAGE value="[201812281828] update" />
     <MESSAGE value="[201901071823] update" />
     <MESSAGE value="[20190108] 冒泡排序 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="[20190108] 冒泡排序 update" />
+    <MESSAGE value="[20190108] 4个算法 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20190108] 4个算法 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1011,28 +1020,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day1/guess_任性玩.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day1/For.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day1/format_Input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.171134">
@@ -1375,8 +1362,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/4.计算阶乘n!.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.97245765">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74364406">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding />
         </state>
       </provider>
