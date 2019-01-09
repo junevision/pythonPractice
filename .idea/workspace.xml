@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f081859-8965-4a56-b025-33de3dd2ef47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/9.输出某个路径及其子目录下所有以.html为后缀的文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/10.把原字典的键值对颠倒并生产新的字典.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/11.打印九九乘法表.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/12.替换列表中所有的3为3a.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="s14.iws" />
@@ -21,6 +23,7 @@
     <SUITE FILE_PATH="coverage/python_practice$Download_Baidu_Image.coverage" NAME="Download_Baidu_Image Coverage Results" MODIFIED="1535516777102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Download_Baidu_Image" />
     <SUITE FILE_PATH="coverage/python_practice$shoppingCart_myPractice.coverage" NAME="shoppingCart_myPractice Coverage Results" MODIFIED="1530168428979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$encode.coverage" NAME="encode Coverage Results" MODIFIED="1542016724857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_practice$12_33a.coverage" NAME="12.替换列表中所有的3为3a Coverage Results" MODIFIED="1547021666986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$zhihu_pictures.coverage" NAME="zhihu_pictures Coverage Results" MODIFIED="1539769743200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihu_pictures" />
     <SUITE FILE_PATH="coverage/python_practice$.coverage" NAME="冒泡排序 Coverage Results" MODIFIED="1546913588470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$guess_.coverage" NAME="guess_任性玩 Coverage Results" MODIFIED="1522320283033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
@@ -28,6 +31,7 @@
     <SUITE FILE_PATH="coverage/python_practice$Robot_chat.coverage" NAME="Robot_chat Coverage Results" MODIFIED="1539770106531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robot_chat" />
     <SUITE FILE_PATH="coverage/s14$assignment_login.coverage" NAME="assignment_login Coverage Results" MODIFIED="1522396573437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$Robot_chat1.coverage" NAME="Robot_chat1 Coverage Results" MODIFIED="1539770127340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Robot_chat" />
+    <SUITE FILE_PATH="coverage/python_practice$10_.coverage" NAME="10.把原字典的键值对颠倒并生产新的字典 Coverage Results" MODIFIED="1547018223754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$For.coverage" NAME="For Coverage Results" MODIFIED="1522396589952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/s14$password.coverage" NAME="password Coverage Results" MODIFIED="1522124602187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$func_test5.coverage" NAME="func_test5 Coverage Results" MODIFIED="1545969066287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
@@ -49,6 +53,7 @@
     <SUITE FILE_PATH="coverage/python_practice$5_.coverage" NAME="5.列出当前目录下的所有文件和目录名 Coverage Results" MODIFIED="1546937397939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1534760924547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat_Moments_Sudoku" />
     <SUITE FILE_PATH="coverage/python_practice$gif_maker.coverage" NAME="gif_maker Coverage Results" MODIFIED="1539771169539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gif_maker" />
+    <SUITE FILE_PATH="coverage/python_practice$11_.coverage" NAME="11.打印九九乘法表 Coverage Results" MODIFIED="1547018874003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$7_.coverage" NAME="7.输出某个路径下的所有文件和文件夹的路径 Coverage Results" MODIFIED="1546938421250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$names.coverage" NAME="names Coverage Results" MODIFIED="1527740723287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$func_test6.coverage" NAME="func_test6 Coverage Results" MODIFIED="1546412383061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
@@ -114,11 +119,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9.输出某个路径及其子目录下所有以.html为后缀的文件.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9.输出某个路径及其子目录下所有以.html为后缀的文件.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/9.输出某个路径及其子目录下所有以.html为后缀的文件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82875264">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.把原字典的键值对颠倒并生产新的字典.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/10.把原字典的键值对颠倒并生产新的字典.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.打印九九乘法表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/11.打印九九乘法表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.替换列表中所有的3为3a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/12.替换列表中所有的3为3a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45762712">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -140,9 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day1/tuple.py" />
-        <option value="$PROJECT_DIR$/day2/assignment_shoppingCart.py" />
-        <option value="$PROJECT_DIR$/day2/shoppingCart_practice.py" />
         <option value="$PROJECT_DIR$/day2/rrrr.py" />
         <option value="$PROJECT_DIR$/day2/shoppingCart_practice1.py" />
         <option value="$PROJECT_DIR$/day2/string.py" />
@@ -191,6 +223,9 @@
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/8.输出某个路径及其子目录下的所有文件路径.py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/9.输出某个路径及其子目录下所有以.html为后缀的文件.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/10.把原字典的键值对颠倒并生产新的字典.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/11.打印九九乘法表.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/12.替换列表中所有的3为3a.py" />
       </list>
     </option>
   </component>
@@ -295,61 +330,7 @@
       <recent name="C:\Users\610148\PycharmProjects\s14\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9.输出某个路径及其子目录下所有以.html为后缀的文件">
-    <configuration default="false" name="5.列出当前目录下的所有文件和目录名" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/5.列出当前目录下的所有文件和目录名.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="6.把一个list中所有的字符串变成小写" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/6.把一个list中所有的字符串变成小写.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="7.输出某个路径下的所有文件和文件夹的路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/7.输出某个路径下的所有文件和文件夹的路径.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.12.替换列表中所有的3为3a">
     <configuration default="false" name="8.输出某个路径及其子目录下的所有文件路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,6 +363,60 @@
       <module name="python_practice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/9.输出某个路径及其子目录下所有以.html为后缀的文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="10.把原字典的键值对颠倒并生产新的字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/10.把原字典的键值对颠倒并生产新的字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="11.打印九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/11.打印九九乘法表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="12.替换列表中所有的3为3a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/12.替换列表中所有的3为3a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -580,19 +615,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5.列出当前目录下的所有文件和目录名" />
-      <item index="1" class="java.lang.String" itemvalue="Python.6.把一个list中所有的字符串变成小写" />
-      <item index="2" class="java.lang.String" itemvalue="Python.7.输出某个路径下的所有文件和文件夹的路径" />
-      <item index="3" class="java.lang.String" itemvalue="Python.8.输出某个路径及其子目录下的所有文件路径" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9.输出某个路径及其子目录下所有以.html为后缀的文件" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8.输出某个路径及其子目录下的所有文件路径" />
+      <item index="1" class="java.lang.String" itemvalue="Python.9.输出某个路径及其子目录下所有以.html为后缀的文件" />
+      <item index="2" class="java.lang.String" itemvalue="Python.10.把原字典的键值对颠倒并生产新的字典" />
+      <item index="3" class="java.lang.String" itemvalue="Python.11.打印九九乘法表" />
+      <item index="4" class="java.lang.String" itemvalue="Python.12.替换列表中所有的3为3a" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9.输出某个路径及其子目录下所有以.html为后缀的文件" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8.输出某个路径及其子目录下的所有文件路径" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7.输出某个路径下的所有文件和文件夹的路径" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6.把一个list中所有的字符串变成小写" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5.列出当前目录下的所有文件和目录名" />
+        <item index="0" class="java.lang.String" itemvalue="Python.12.替换列表中所有的3为3a" />
+        <item index="1" class="java.lang.String" itemvalue="Python.11.打印九九乘法表" />
+        <item index="2" class="java.lang.String" itemvalue="Python.10.把原字典的键值对颠倒并生产新的字典" />
+        <item index="3" class="java.lang.String" itemvalue="Python.9.输出某个路径及其子目录下所有以.html为后缀的文件" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8.输出某个路径及其子目录下的所有文件路径" />
       </list>
     </recent_temporary>
   </component>
@@ -853,7 +888,13 @@
       <option name="project" value="LOCAL" />
       <updated>1546943101111</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="[20190109] 更新9个算法 update">
+      <created>1547015125491</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1547015125491</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -871,17 +912,17 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26992288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27855152" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30083567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30125523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30683404" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -902,7 +943,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20180821update" />
     <MESSAGE value="[201808221011]update" />
     <MESSAGE value="[201808221434]update" />
     <MESSAGE value="[201808291622]update" />
@@ -927,7 +967,8 @@
     <MESSAGE value="[20190108] 4个算法 update" />
     <MESSAGE value="[20190108] 更新7个算法 update" />
     <MESSAGE value="[20190108] 更新8个算法 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="[20190108] 更新8个算法 update" />
+    <MESSAGE value="[20190109] 更新9个算法 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20190109] 更新9个算法 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -971,27 +1012,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/names[List]_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day1/assignment_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2406" column="0" selection-start-line="2406" selection-start-column="0" selection-end-line="2406" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6455696">
@@ -1326,8 +1346,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/9.输出某个路径及其子目录下所有以.html为后缀的文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82875264">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/10.把原字典的键值对颠倒并生产新的字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/11.打印九九乘法表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/12.替换列表中所有的3为3a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45762712">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding />
         </state>
       </provider>
