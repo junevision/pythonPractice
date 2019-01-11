@@ -4,7 +4,7 @@
 # import random
 # list1 = []
 # for i in range(65, 91):
-#     list1.append(chr(i))                # 通过for循环遍历ascll追加到空列表中
+#     list1.append(chr(i))                # 通过for循环遍历ascii追加到空列表中
 # for j in range(97, 123):
 #     list1.append(chr(j))
 # for k in range(48, 58):
@@ -42,7 +42,7 @@ while a != b:
     else:
         print('你第%d输入的数字大于电脑随机数字'%i)
         b = int(input('请再次输入数字：'))
-    i+=1
+    i += 1
 else:
-    print('恭喜你，你第%d次输入的数字与电脑的随机数字%d一样'%(i,b))
+    print('恭喜你，你第%d次输入的数字与电脑的随机数字%d一样'%(i, b))
 
