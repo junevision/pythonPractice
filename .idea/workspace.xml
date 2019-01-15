@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f081859-8965-4a56-b025-33de3dd2ef47" name="Default" comment="[20190111] 更新17个算法 update">
+    <list default="true" id="7f081859-8965-4a56-b025-33de3dd2ef47" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/18.判断奇偶数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/19.判断闰年.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/20.获取最大值.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py" afterPath="$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py" />
     </list>
     <ignored path="s14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,6 +44,7 @@
     <SUITE FILE_PATH="coverage/python_practice$Download_Doutu_Emotion.coverage" NAME="Download_Doutu_Emotion Coverage Results" MODIFIED="1535530581540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Download_Doutu_Emotion" />
     <SUITE FILE_PATH="coverage/python_practice$string.coverage" NAME="string Coverage Results" MODIFIED="1530529489281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$8_.coverage" NAME="8.输出某个路径及其子目录下的所有文件路径 Coverage Results" MODIFIED="1546940766329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
+    <SUITE FILE_PATH="coverage/python_practice$20_.coverage" NAME="20.获取最大值 Coverage Results" MODIFIED="1547526074231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$login.coverage" NAME="login Coverage Results" MODIFIED="1522204977846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/s14$guess_for.coverage" NAME="guess_for Coverage Results" MODIFIED="1522312908994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$func_test4.coverage" NAME="func_test4 Coverage Results" MODIFIED="1545906307583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
@@ -60,6 +63,7 @@
     <SUITE FILE_PATH="coverage/python_practice$func_test6.coverage" NAME="func_test6 Coverage Results" MODIFIED="1546412383061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$func_test3.coverage" NAME="func_test3 Coverage Results" MODIFIED="1545297327246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$Download_LOL.coverage" NAME="Download_LOL Coverage Results" MODIFIED="1535533868645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Download_LOL" />
+    <SUITE FILE_PATH="coverage/python_practice$18_.coverage" NAME="18.判断奇偶数 Coverage Results" MODIFIED="1547522228924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/s14$sys.coverage" NAME="sys Coverage Results" MODIFIED="1523246669778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../s14/day1" />
     <SUITE FILE_PATH="coverage/python_practice$15_.coverage" NAME="15.随机生成验证码的两种方式 Coverage Results" MODIFIED="1547116008568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$encode2.coverage" NAME="encode2 Coverage Results" MODIFIED="1545299290787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
@@ -71,6 +75,7 @@
     <SUITE FILE_PATH="coverage/python_practice$9__html.coverage" NAME="9.输出某个路径及其子目录下所有以.html为后缀的文件 Coverage Results" MODIFIED="1547015013824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$3__aa__bb__cc_.coverage" NAME="3.计算(a乘a)加(b乘b)加(c乘c) Coverage Results" MODIFIED="1546929277136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$func_test2.coverage" NAME="func_test2 Coverage Results" MODIFIED="1545211710890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python_practice$19_.coverage" NAME="19.判断闰年 Coverage Results" MODIFIED="1547523728127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30个常见python脚本汇总" />
     <SUITE FILE_PATH="coverage/python_practice$shoppingCart_practice1.coverage" NAME="shoppingCart_practice1 Coverage Results" MODIFIED="1530169602784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_practice$Download_Meizitu_Image.coverage" NAME="Download_Meizitu_Image Coverage Results" MODIFIED="1535533631297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Download_Meizitu_Image" />
     <SUITE FILE_PATH="coverage/python_practice$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1530082495112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
@@ -92,61 +97,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="func_test6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/func_test6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.打印每个名字.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/13.打印每个名字.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.合并去重.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/14.合并去重.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15.随机生成验证码的两种方式.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/15.随机生成验证码的两种方式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16.计算平方根.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/16.计算平方根.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.判断字符串是否只由数字组成.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="17.判断字符串是否只由数字组成.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5148305">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18.判断奇偶数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/18.判断奇偶数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19.判断闰年.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/19.判断闰年.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20.获取最大值.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/20.获取最大值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44383562">
+              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -168,9 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Wechat_Moments_Sudoku/sudoku.py" />
-        <option value="$PROJECT_DIR$/51job_reptile/51job_reptile.py" />
-        <option value="$PROJECT_DIR$/Download_Baidu_image/Download_Baidu_image.py" />
         <option value="$PROJECT_DIR$/Download_Baidu_Image/Download_Baidu_Image.py" />
         <option value="$PROJECT_DIR$/Download_Doutu_Emotion/Download_Doutu_Emotion.py" />
         <option value="$PROJECT_DIR$/Download_Meizitu_Image/Download_Meizitu_Image.py" />
@@ -219,6 +201,9 @@
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/15.随机生成验证码的两种方式.py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/16.计算平方根.py" />
         <option value="$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/18.判断奇偶数.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/19.判断闰年.py" />
+        <option value="$PROJECT_DIR$/30个常见python脚本汇总/20.获取最大值.py" />
       </list>
     </option>
   </component>
@@ -274,6 +259,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,8 +295,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,61 +308,7 @@
       <recent name="C:\Users\610148\PycharmProjects\s14\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.17.判断字符串是否只由数字组成">
-    <configuration default="false" name="13.打印每个名字" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/13.打印每个名字.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="14.合并去重" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/14.合并去重.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="15.随机生成验证码的两种方式" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/15.随机生成验证码的两种方式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.20.获取最大值">
     <configuration default="false" name="16.计算平方根" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -410,6 +341,60 @@
       <module name="python_practice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="18.判断奇偶数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/18.判断奇偶数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="19.判断闰年" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/19.判断闰年.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="20.获取最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30个常见python脚本汇总" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30个常见python脚本汇总/20.获取最大值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -608,19 +593,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.13.打印每个名字" />
-      <item index="1" class="java.lang.String" itemvalue="Python.14.合并去重" />
-      <item index="2" class="java.lang.String" itemvalue="Python.15.随机生成验证码的两种方式" />
-      <item index="3" class="java.lang.String" itemvalue="Python.16.计算平方根" />
-      <item index="4" class="java.lang.String" itemvalue="Python.17.判断字符串是否只由数字组成" />
+      <item index="0" class="java.lang.String" itemvalue="Python.16.计算平方根" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17.判断字符串是否只由数字组成" />
+      <item index="2" class="java.lang.String" itemvalue="Python.18.判断奇偶数" />
+      <item index="3" class="java.lang.String" itemvalue="Python.19.判断闰年" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20.获取最大值" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.17.判断字符串是否只由数字组成" />
-        <item index="1" class="java.lang.String" itemvalue="Python.16.计算平方根" />
-        <item index="2" class="java.lang.String" itemvalue="Python.15.随机生成验证码的两种方式" />
-        <item index="3" class="java.lang.String" itemvalue="Python.14.合并去重" />
-        <item index="4" class="java.lang.String" itemvalue="Python.13.打印每个名字" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20.获取最大值" />
+        <item index="1" class="java.lang.String" itemvalue="Python.19.判断闰年" />
+        <item index="2" class="java.lang.String" itemvalue="Python.18.判断奇偶数" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17.判断字符串是否只由数字组成" />
+        <item index="4" class="java.lang.String" itemvalue="Python.16.计算平方根" />
       </list>
     </recent_temporary>
   </component>
@@ -911,7 +896,13 @@
       <option name="project" value="LOCAL" />
       <updated>1547176909180</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="[20190111] 更新17个算法v1 update">
+      <created>1547208418538</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1547208418538</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView">
@@ -925,21 +916,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2769923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28084832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27855152" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30125523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45048815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30640668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30543932" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -960,7 +951,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[201809201848] update" />
     <MESSAGE value="[201809261822] update" />
     <MESSAGE value="[20181017] update" />
     <MESSAGE value="[201810171816] update" />
@@ -985,7 +975,8 @@
     <MESSAGE value="[20190109] 更新13个算法 update" />
     <MESSAGE value="[20190110] 更新15个算法 update" />
     <MESSAGE value="[20190111] 更新17个算法 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="[20190111] 更新17个算法 update" />
+    <MESSAGE value="[20190111] 更新17个算法v1 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20190111] 更新17个算法v1 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1029,27 +1020,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/guess_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7152318">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat_Moments_Sudoku/sudoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/51job_reptile/51job_reptile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1386,8 +1356,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/17.判断字符串是否只由数字组成.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5148305">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/18.判断奇偶数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/19.判断闰年.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30个常见python脚本汇总/20.获取最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44383562">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
           <folding />
         </state>
       </provider>
