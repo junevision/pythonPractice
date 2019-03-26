@@ -10,3 +10,4 @@ def test(*args):
 test(1, 2, 3, 4, 5, 6)
 test(*[1, 2, 3, 4])   # 变成一个元组
 
+# I am testing
